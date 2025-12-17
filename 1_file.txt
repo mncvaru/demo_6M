@@ -1,0 +1,6 @@
+heyy drasti Rathod,
+how are you doing?
+
+
+git config --global user.email "mansivaru36@gmail.com"
+git config --global user.name "mncvaru"
